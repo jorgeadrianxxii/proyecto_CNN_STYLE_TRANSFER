@@ -8,8 +8,8 @@
 
 **Dimensiones de Input** | **Número iteraciones en L-BFGS** | **Content Weight**
 ------------ | ------------- | -------------- 
-Content from cell 1 | Content from cell 2 | -----
-Content in the first column | Content in the second column| -----
+Content from cell 1 | Content from cell 2 | 
+Content in the first column | Content in the second column| 
 
 ## Conclusiones
 
