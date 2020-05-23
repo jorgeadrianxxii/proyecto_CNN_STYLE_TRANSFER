@@ -12,30 +12,34 @@ sentado
 ------------ | ------------- | -------------- | ----------------
 (300,350) | 50 |   .0005       |    8     |
 
+![](/images/sentado.jpg)
+
 
 Persistencia
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (300,350) | 50 |   .0005       |    8     |
 
+![](/images/persistencia.jpg)
 
 rectoria 1
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (350,300) | 50 |   .0005       |    8     |
-
-
+![](/images/rectoria1.jpg)
+![](/images/rectoria2.jpg)
 Cerro Campana
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (350,300) | 20 |   .0005       |    8     |
-
+![](/images/noche.jpg)
+![](/images/noche2.jpg)
 
 Grito
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (300,350) | 50 |   .0005       |    8     |
-
+![](/images/grito.jpg)
 
 
 
