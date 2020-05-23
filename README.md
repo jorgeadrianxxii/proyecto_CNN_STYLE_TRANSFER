@@ -57,4 +57,8 @@
 
 ## Conclusiones
 
-
+* Aunque los resultados fueron satisfactorios aun se pueden hacer modificaciones a los hyperparámetros para conseguir mejores resultados, por ejemplo aumentado las dimensiones del input o variando los valores Content Weight y Style Weight así como dar un mayor numero de iteraciones. 
+* Las dimensiones (350 x 300)px para el input del modelo fueron escogidas por ser las mayores dimensiones era capaz de procesar el optimizador en tiempo aceptable (debido al relativamente poco poder de computo con que poseo). 
+* Mayores dimensiones generaban imágenes poco modificadas con el estilo deseado, esto debido a que el incremento de parámetros que actualizar aumentaba el error de la función a optimizar y hacía que la convergencia en el optimizador fuese mas lenta requiriendo mayor número de iteraciones y por consiguiente mayor tiempo de ejecucion el cuál finalmente no se invirtió.
+* L-BFGS tarda alrededor de 15 min en finalizar para las dimensiones (350 x 300)px con 50 iteraciones. Más de una hora para dimensiones (500 x 550) o mayores con el mismo numero de iteraciones (con el equipo de computo donde se desarrollo este proyecto)
+* Se pueden probar otras arquitecturas de red neuronal, asi como los pesos de distintas capas para desarrollar la función a optimizar.
