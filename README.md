@@ -26,8 +26,14 @@ rectoria 1
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (350,300) | 50 |   .0005       |    8     |
+
+
 ![](/images/rectoria1.jpg)
+
+
 ![](/images/rectoria2.jpg)
+
+
 Cerro Campana
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
