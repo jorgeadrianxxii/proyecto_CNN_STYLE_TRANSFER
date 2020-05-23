@@ -7,7 +7,6 @@
 ## Y así sin más, pasando de la teoría o de dar incluso una explicación coherente de por que esto funciona ([Más Info Aquí](https://towardsdatascience.com/style-transfer-styling-images-with-convolutional-neural-networks-7d215b58f461)), podemos ver algunos resultados.
 
 
-sentado
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (300,350) | 50 |   .0005       |    8     |
@@ -15,14 +14,13 @@ sentado
 ![](/images/sentado.jpg)
 
 
-Persistencia
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (300,350) | 50 |   .0005       |    8     |
 
 ![](/images/persistencia.jpg)
 
-rectoria 1
+
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (350,300) | 50 |   .0005       |    8     |
@@ -34,7 +32,6 @@ rectoria 1
 ![](/images/rectoria2.jpg)
 
 
-Cerro Campana
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (350,300) | 20 |   .0005       |    8     |
@@ -46,7 +43,6 @@ Cerro Campana
 
 ![](/images/noche2.jpg)
 
-Grito
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (300,350) | 50 |   .0005       |    8     |
@@ -54,12 +50,6 @@ Grito
 
 
 ![](/images/grito.jpg)
-
-
-
-
-
-
 
 
 
