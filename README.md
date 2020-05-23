@@ -38,13 +38,21 @@ Cerro Campana
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (350,300) | 20 |   .0005       |    8     |
-![](/images/noche.jpg)
+
+
+
+![](/images/noche1.jpg)
+
+
 ![](/images/noche2.jpg)
 
 Grito
 **Dimensiones de Input (WxH)** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
 ------------ | ------------- | -------------- | ----------------
 (300,350) | 50 |   .0005       |    8     |
+
+
+
 ![](/images/grito.jpg)
 
 
