@@ -7,7 +7,7 @@
 ## Y así sin más, pasando de la teoría o de dar incluso una explicación coherente de por que esto funciona ([Más Info Aquí](https://towardsdatascience.com/style-transfer-styling-images-with-convolutional-neural-networks-7d215b58f461)), podemos ver algunos resultados.
 
 **Dimensiones de Input** | **Número iteraciones en L-BFGS** | **Content Weight** | **Style Weight**
------------- | ------------- | -------------- | ------------| ----------------|-----------------
+------------ | ------------- | -------------- | ----------------
 Content from cell 1 | Content from cell 2 |         |         |
 Content in the first column | Content in the second column|     |         |
 
